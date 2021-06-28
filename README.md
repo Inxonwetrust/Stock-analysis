@@ -1,5 +1,5 @@
 # Stock Analysis: Excel VBA
-Excel file: [VBA - Stock Analysis](https://github.com/Inxonwetrust/stock-analysis/blob/master/VBA_Challenge.xlsm)
+Excel file: [VBA - Stock Analysis](https://github.com/Inxonwetrust/Stock-analysis/blob/main/VBA_Challenge.xlsm)
 
 ## Overview 
 ### Purpose
